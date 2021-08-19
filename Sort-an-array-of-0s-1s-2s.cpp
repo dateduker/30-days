@@ -17,6 +17,9 @@ Method 1
         If the element is 2 then swap the element with the element at index high and update high = high – 1 and update i = i – 1. As the swapped element is not processed
         Print the output array.
         
+        Time Complexity: O(n). 
+        Space Complexity: O(1). 
+        
         0 0 0 1 1 1 1 1 ? ? ? ? ? ? ? 2 2 2
               l         m           h
  */
@@ -40,3 +43,7 @@ Method 1
         }
     }
 }
+
+/*
+Approach: Count the number of 0s, 1s and 2s in the given array. Then store all the 0s in the beginning followed by all the 1s then all the 2s.
+*/
