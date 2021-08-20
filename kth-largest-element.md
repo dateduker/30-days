@@ -1,5 +1,7 @@
 https://leetcode.com/problems/kth-largest-element-in-an-array/
 
+https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/
+
 Map or heap can be used
 #### Using quick select
 ```
