@@ -1,7 +1,9 @@
+https://leetcode.com/problems/longest-increasing-subsequence/
+
+
 * T: O(nlogn)
 * S: O(n)
 
-https://leetcode.com/problems/longest-increasing-subsequence/
 ```
 class Solution {
 public:
