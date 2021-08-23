@@ -1,6 +1,10 @@
 #### https://leetcode.com/problems/rotate-image/
 
 #### https://www.interviewbit.com/problems/rotate-matrix/
+
+For 90 deg rotation
+1. Transpose
+2. Reverse row, if clockwise rotation, else reverse colum, if anti clockwise rotation
 ```
 class Solution {
 public:
