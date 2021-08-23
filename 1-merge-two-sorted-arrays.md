@@ -8,6 +8,8 @@ Refill the given arrays using auxillary array
 [Youtube](https://www.youtube.com/watch?v=hVl2b3bLzBw&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=5)
 
 #### Using insertion
+T: O(mn)
+S: O(1)
 ```
 class Solution {
 public:
@@ -36,6 +38,7 @@ public:
 ```
 
 #### Using gap
+T: O(nlogn)
 ```
 class Solution {
 public:
