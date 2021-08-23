@@ -23,6 +23,8 @@ Method 1
         0 0 0 1 1 1 1 1 ? ? ? ? ? ? ? 2 2 2
               l         m           h
 ```
+![image](https://user-images.githubusercontent.com/70789919/130397633-b08e6430-7194-4a1a-b334-8376f68c5348.png)
+
  ```
  void sort012(int a[], int arr_size)
 {
@@ -46,5 +48,6 @@ Method 1
 }
 ```
 ```
-Approach: Count the number of 0s, 1s and 2s in the given array. Then store all the 0s in the beginning followed by all the 1s then all the 2s.
+Approach: Count the number of 0s, 1s and 2s in the given array. Then store all the 0s in the 
+beginning followed by all the 1s then all the 2s.
 ```
