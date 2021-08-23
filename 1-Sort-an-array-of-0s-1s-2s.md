@@ -1,4 +1,4 @@
-/*
+```
 Method 1 
     Approach:The problem is similar to our old post Segregate 0s and 1s in an array, and both of these problems are variation of famous Dutch national flag problem.
     The problem was posed with three colours, here `0′, `1′ and `2′. The array is divided into four sections: 
@@ -22,7 +22,8 @@ Method 1
         
         0 0 0 1 1 1 1 1 ? ? ? ? ? ? ? 2 2 2
               l         m           h
- */
+```
+ ```
  void sort012(int a[], int arr_size)
 {
     int lo = 0;
@@ -43,7 +44,7 @@ Method 1
         }
     }
 }
-
-/*
+```
+```
 Approach: Count the number of 0s, 1s and 2s in the given array. Then store all the 0s in the beginning followed by all the 1s then all the 2s.
-*/
+```
